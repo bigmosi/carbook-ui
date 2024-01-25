@@ -48,7 +48,7 @@ function AddCar() {
         setSubmitted(true);
       })
       .catch((e) => {
-        // console.log(e);
+        console.log(e);
       });
   };
 

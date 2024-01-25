@@ -20,6 +20,7 @@
   "plugins": ["react"],
   "rules": {
     "object-curly-newline": "off",
+    "no-console": "off",
     "global-require": 0,
     "react/jsx-one-expression-per-line": "off",
     "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
